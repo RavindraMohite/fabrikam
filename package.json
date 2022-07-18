@@ -1,0 +1,22 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "this repository consist of node.js application for customer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavindraMohite/fabrikam.git"
+  },
+  "author": "Ravindra Mohite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RavindraMohite/fabrikam/issues"
+  },
+  "homepage": "https://github.com/RavindraMohite/fabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
